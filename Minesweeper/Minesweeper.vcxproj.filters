@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Smiley.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Counter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Smiley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\TextureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Counter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sfml-graphics-2.dll" />
+    <None Include="sfml-audio-2.dll" />
+    <None Include="sfml-audio-d-2.dll" />
+    <None Include="sfml-graphics-d-2.dll" />
+    <None Include="sfml-network-d-2.dll" />
+    <None Include="sfml-network-2.dll" />
+    <None Include="sfml-system-2.dll" />
+    <None Include="sfml-system-d-2.dll" />
+    <None Include="sfml-window-2.dll" />
+    <None Include="sfml-window-d-2.dll" />
+    <None Include="boards\testboard.brd" />
+    <None Include="boards\testboard2.brd" />
+    <None Include="boards\config.cfg" />
+    <None Include="boards\lots_o_mines.brd" />
+    <None Include="boards\recursion_test.brd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\debug.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\digits.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\face_happy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\face_lose.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\face_win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\flag.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\mine.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\number_8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\test_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\test_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\tile_hidden.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\tile_revealed.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\test_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
