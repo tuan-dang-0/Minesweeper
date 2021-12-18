@@ -151,23 +151,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Board.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Button.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Counter.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\main.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Random.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Smiley.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\TextureManager.cpp" />
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Tile.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Counter.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Random.cpp" />
+    <ClCompile Include="Smiley.cpp" />
+    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="Tile.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Board.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Button.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Counter.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Random.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Smiley.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\TextureManager.h" />
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\Dang.Tuan.Project3\Tile.h" />
+    <ClInclude Include="Board.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Counter.h" />
+    <ClInclude Include="Random.h" />
+    <ClInclude Include="Smiley.h" />
+    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="Tile.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="boards\config.cfg" />
